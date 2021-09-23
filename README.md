@@ -2,7 +2,7 @@ Olá! 👩🏼‍💻 <br>
 Me chamo Barbara Benedetti. <br>
 📚 Atualmente estudando para me tornar uma desenvolvedora full stack. <br>
 💡 Buscando trocas de conhecimentos. <br>
-✉️ Contate-me no e-mail benedetti.contato@gmail.com <br>
+✉️ Contate-me pelo e-mail benedetti.contato@gmail.com <br>
 
  <div>
   <a href="https://github.com/b-benedetti">
