@@ -1,4 +1,4 @@
-# Barbara Benedetti
+#b-benedetti
 Olá! 👩🏼‍💻
 Me chamo Barbara Benedetti.
 📚 Atualmente estudando para me tornar uma desenvolvedora full stack.
