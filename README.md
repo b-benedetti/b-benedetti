@@ -7,8 +7,8 @@ Me chamo Barbara Benedetti.
 
  <div>
   <a href="https://github.com/arthurmesquita2001">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurmesquita2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmesquita2001&layout=compact&langs_count=7&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=b-benedetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-benedetti&layout=compact&langs_count=7&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Barbara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
