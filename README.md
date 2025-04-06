@@ -1,6 +1,6 @@
 Olá! 👩🏼‍💻 <br>
 Me chamo Barbara Benedetti. <br>
-📚 Atualmente aprimorando meus conhecimentos em front-end. <br>
+📚 Atualmente aprimorando meus conhecimentos em Dados. <br>
 💡 Buscando sempre novos aprendizados. <br>
 ✉️ Contate-me pelo e-mail benedetti.contato@gmail.com <br>
 
